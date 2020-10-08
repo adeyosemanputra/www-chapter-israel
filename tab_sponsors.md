@@ -4,15 +4,15 @@ title: Sponsors
 displaytext: Chapter sponsors
 layout: null
 tab: true
-order: 2
-tags: Israel
+order: 6
+tags: Indonesia
 
 ---
 
-## AppSec Israel 2020 Sponsorships
+## AppSec Indonesia 2020 Sponsorships
 
-[AppSec Israel 2020 detailed sponsorship tiers and options can be found in AppSec IL site](https://appsecil.org/Sponsors)
+[AppSec Indonesia 2020 detailed sponsorship tiers and options can be found in Our Conference Website](https://appsec2020.owasp.or.id)
 
 ## Local sponsors
 
-If you want to support our chapter, please contact [Ori Troyna](mailto:ori.troyna@owasp.org). 
+If you want to support our chapter, please contact [Kelly Santalucia](mailto:Kelly.Santalucia@owasp.org). 
